@@ -45,7 +45,7 @@ Analyzing and visualizing data, and presenting answers and conclusions re: the b
 - data/Maps/destdv250k_2gw.shp - Map of Mexico's territorial divisions shape file
 
 ## Results & Improvements
-The results can be found in the following [Medium blog post]().
+The results can be found in the following [Medium blog post](https://medium.com/@luiscamarillo97/can-morenas-electoral-machine-be-stopped-896d3cfda6e7).
 
 ## Licensing & Acknowledgements
 Feel free to reuse this code under the MIT License. Special thanks to the INE and CONABIO for the datasets used.
