@@ -48,4 +48,4 @@ Analyzing and visualizing data, and presenting answers and conclusions re: the b
 The results can be found in the following [Medium blog post](https://medium.com/@luiscamarillo97/can-morenas-electoral-machine-be-stopped-896d3cfda6e7).
 
 ## Licensing & Acknowledgements
-Feel free to reuse this code under the MIT License. Special thanks to the INE and CONABIO for the datasets used.
+Feel free to reuse this code under the MIT License. Special thanks to the INE and CONABIO for the datasets used. Also the people in these [stack overflow](https://stackoverflow.com/questions/33199193/how-to-fill-dataframe-nan-values-with-empty-list-in-pandas) [threads](https://stackoverflow.com/questions/740287/how-to-check-if-one-of-the-following-items-is-in-a-list).
